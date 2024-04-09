@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![image](https://github.com/RishabhRai280/RishabhRai280/assets/166472807/2258e71e-7bac-4b59-83b5-fc482fa44207)]
 <h1 align="center">Hi 👋, I'm Rishabh Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" height="400"  src="Programming-amico.svg">
+
+<img align="right" alt="Coding" height="300"  src="Programming-amico.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrai280&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrai280" /> </p>
 
