@@ -1,4 +1,4 @@
-![image](https://github.com/RishabhRai280/RishabhRai280/blob/9dc84a1c879038ad734b4fd16c9c60c5cdbadcf5/7he%20R4.gif)
+![image](https://github.com/RishabhRai280/RishabhRai280/blob/164882c10d06ed2ff2394db568c7b4243c93aa02/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000%C3%97300).gif)
 <h1 align="center">Hi 👋, I'm Rishabh Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
