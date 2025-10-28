@@ -75,7 +75,7 @@
 </table>
 
 ---
-
+<!-- 
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
@@ -83,7 +83,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhRai280&theme=radical" alt="Rishabh Rai's GitHub Streak" width="49%"/>
 </div>
 
----
+--- -->
 
 
 <h2 align="center">🛠️ Languages and Tools</h2>
