@@ -65,8 +65,8 @@
       <sub>High-performance, local-first retro game emulator processing ROMs entirely in-browser with zero latency.</sub>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://flashback-booth.vercel.app/" target="_blank">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fflashback-booth.vercel.app%2F?w=400" alt="FlashBack Screenshot" style="border-radius: 8px; width: 100%; max-width: 400px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <a href="https://flashbooth.pages.dev/" target="_blank">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fflashbooth.pages.dev%2F?w=400" alt="FlashBack Screenshot" style="border-radius: 8px; width: 100%; max-width: 400px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       </a>
       <br /><br />
       <strong>FlashBack Booth</strong>
@@ -76,8 +76,8 @@
   </tr>
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://rishabhrai280.github.io" target="_blank">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frishabhrai280.github.io%2F?w=400" alt="Portfolio Screenshot" style="border-radius: 8px; width: 100%; max-width: 400px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      <a href="https://rishabhrai.is-a.dev" target="_blank">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frishabhrai.is-a.dev%2F?w=400" alt="Portfolio Screenshot" style="border-radius: 8px; width: 100%; max-width: 400px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       </a>
       <br /><br />
       <strong>Portfolio</strong>
