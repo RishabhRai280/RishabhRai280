@@ -85,7 +85,7 @@
       <sub>Refined showcase of high-performance web experiences built with Next.js 15, Framer Motion, and Tailwind CSS 4.</sub>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://rishabhrai280.github.io/youtube-playlist-progress-site/" target="_blank">
+      <a href="https://youtube-playlist-progress.pages.dev/" target="_blank">
         <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frishabhrai280.github.io%2Fyoutube-playlist-progress-site%2F?w=400" alt="YouTube Progress Screenshot" style="border-radius: 8px; width: 100%; max-width: 400px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
       </a>
       <br /><br />
@@ -106,12 +106,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishabhRai280/RishabhRai280/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RishabhRai280/RishabhRai280/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhRai280&show_icons=true&hide_border=true&bg_color=00000000&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e&rank_icon=github" alt="Rishabh Rai's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRai280&layout=compact&hide_border=true&bg_color=00000000&title_color=0e75b6&text_color=8b949e" alt="Top Languages" width="48%"/>
 </div>
 
 ---
